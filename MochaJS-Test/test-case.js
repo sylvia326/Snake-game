@@ -1,5 +1,6 @@
 
-//
+//Cases were considered for test purposes, but the majority of codes are not testable and I still studying
+//how to figure out to write testable codes currently, further upgrades, therefore, would be done in the future
 
 
 const assert = require('chai').assert;
